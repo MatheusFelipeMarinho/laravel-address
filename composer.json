@@ -1,0 +1,19 @@
+{
+    "name": "matheusfelipemarinho/laravel-address",
+    "description": "Package polymorphic address relationship",
+    "type": "project",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "Matheusfelipemarinho\\LaravelAddress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MatheusFelipeMarinho",
+            "email": "matheus_fellip@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
